@@ -3,8 +3,8 @@
 %bcond_without	tests		# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	PHP
-%define	pnam	Serialization
+%define		pdir	PHP
+%define		pnam	Serialization
 Summary:	PHP::Serialization - converting between PHP's serialize() output and Perl memory structure equivalent
 Summary(pl):	PHP::Serialization - konwersja miêdzy wyj¶ciem serialize() z PHP i odpowiednikiem perlowych struktur w pamiêci
 Name:		perl-PHP-Serialization
