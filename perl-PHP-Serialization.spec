@@ -6,7 +6,7 @@
 %define		pdir	PHP
 %define		pnam	Serialization
 Summary:	PHP::Serialization - converting between PHP's serialize() output and Perl memory structure equivalent
-Summary(pl):	PHP::Serialization - konwersja miêdzy wyj¶ciem serialize() z PHP i odpowiednikiem perlowych struktur w pamiêci
+Summary(pl.UTF-8):   PHP::Serialization - konwersja miÄ™dzy wyjÅ›ciem serialize() z PHP i odpowiednikiem perlowych struktur w pamiÄ™ci
 Name:		perl-PHP-Serialization
 Version:	0.27
 Release:	1
@@ -29,13 +29,13 @@ NOTE: Converts PHP arrays into Perl Arrays when the PHP array used
 exclusively numeric indexes, and into Perl Hashes when the PHP array
 did not.
 
-%description -l pl
-Ten modu³ dostarcza proste, szybkie ¶rodki do serializacji struktur
-perlowych w pamiêci (w³±cznie z danymi obiektów!) na format nadaj±cy
-siê do dostêpu i deserialize() w PHP oraz w drug± stronê.
+%description -l pl.UTF-8
+Ten moduÅ‚ dostarcza proste, szybkie Å›rodki do serializacji struktur
+perlowych w pamiÄ™ci (wÅ‚Ä…cznie z danymi obiektÃ³w!) na format nadajÄ…cy
+siÄ™ do dostÄ™pu i deserialize() w PHP oraz w drugÄ… stronÄ™.
 
 UWAGA: konwertuje tablice PHP na tablice perlowe, kiedy tablica PHP
-u¿ywa wy³±cznie numerycznych indeksów, a na perlowe tablice
+uÅ¼ywa wyÅ‚Ä…cznie numerycznych indeksÃ³w, a na perlowe tablice
 asocjacyjne w przeciwnym wypadku.
 
 %prep
