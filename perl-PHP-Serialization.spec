@@ -6,7 +6,7 @@
 %define		pdir	PHP
 %define		pnam	Serialization
 Summary:	PHP::Serialization - converting between PHP's serialize() output and Perl memory structure equivalent
-Summary(pl.UTF-8):   PHP::Serialization - konwersja między wyjściem serialize() z PHP i odpowiednikiem perlowych struktur w pamięci
+Summary(pl.UTF-8):	PHP::Serialization - konwersja między wyjściem serialize() z PHP i odpowiednikiem perlowych struktur w pamięci
 Name:		perl-PHP-Serialization
 Version:	0.27
 Release:	1
