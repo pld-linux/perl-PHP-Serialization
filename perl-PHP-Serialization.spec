@@ -8,13 +8,13 @@
 Summary:	PHP::Serialization - converting between PHP's serialize() output and Perl memory structure equivalent
 Summary(pl.UTF-8):	PHP::Serialization - konwersja między wyjściem serialize() z PHP i odpowiednikiem perlowych struktur w pamięci
 Name:		perl-PHP-Serialization
-Version:	0.33
+Version:	0.34
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	0c9a1dcd9ca3f9424f4d5caa5742c3a6
+# Source0-md5:	333af0848ad79931875a35cc61dc22e0
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
