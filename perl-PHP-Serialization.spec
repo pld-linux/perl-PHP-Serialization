@@ -8,7 +8,7 @@ Summary:	PHP::Serialization - converting between PHP's serialize() output and Pe
 Summary(pl.UTF-8):	PHP::Serialization - konwersja między wyjściem serialize() z PHP i odpowiednikiem perlowych struktur w pamięci
 Name:		perl-PHP-Serialization
 Version:	0.34
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
